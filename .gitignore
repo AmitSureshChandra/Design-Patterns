@@ -1,0 +1,4 @@
+/out
+/.idea
+DesignPatterns.iml
+src/com/amit/configs/**/*.json
