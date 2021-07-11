@@ -7,7 +7,6 @@ public abstract class CreditCardFactory {
         if (score >  650){
             return new AmexFactory();
         }
-
         return new VisaFactory();
     }
 
